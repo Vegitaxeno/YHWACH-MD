@@ -37,10 +37,10 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository First***
-3. ***Get SESSION ID  by [`Scanning QR Code`](https://replit.com/@Vegitaxeno/YWASH-MD?v=1). `Whatapp>Three dots>Linked Devices`***
+3. ***Get SESSION ID  by [`Scanning QR Code`](https://replit.com/@Vegitaxeno/YHWACH-MD?v=1). `Whatapp>Three dots>Linked Devices`***
 5. ***Deploy on [`Heroku,`](https://mkk-eta.vercel.app/heroku.html)  Watch Tutorial 
  [`How To Deploy on Heroku`](https://youtu.be/7hhuzIkhVfE).***
-7. ***Deploy on [`Replit.`](https://replit.com/github/Vegita/YWASH).*** 
+7. ***Deploy on [`Replit.`](https://replit.com/github/Vegita/YHWACH-MD).*** 
 ##
 
 - ***If You Don't Have Any MongoDB Url Then, Use This Public one.!***
@@ -50,18 +50,12 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
 - *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue, Watch Tutorial  [`How To Get MongoDB Url`](https://youtu.be/HNj76uDT-uc?si=ObIoNZoP5gSZ8bSF).*
 ##
 
-***Subscribe MY YouTube Channel***
-</p>
-<p align="left">
-  <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
-    <img alt=Support height="90" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
-  </p>
 
 
 
 - ***Star ⭐ My Repo If You Like This Bot.***
 
-- ***The [YWASH-MD](https://github.com/Vegitaxeno/YWASH-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
+- ***The [YWASH-MD](https://github.com/Vegitaxeno/YHWACH-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 - ***[Suhail Tech Info](https://github.com/SuhailTechInfo)***
