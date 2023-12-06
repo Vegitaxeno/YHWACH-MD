@@ -37,7 +37,7 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository First***
-3. ***Get SESSION ID  by [`Scanning QR Code`](https://replit.com/@Vegitaxeno/YHWACH-MD?v=1). `Whatapp>Three dots>Linked Devices`***
+3. ***Get SESSION ID  by [`Scanning QR Code`](https://replit.com/@Mehar-Zubair/SIGMA-MD?v=1). `Whatapp>Three dots>Linked Devices`***
 5. ***Deploy on [`Heroku,`](https://mkk-eta.vercel.app/heroku.html)  Watch Tutorial 
  [`How To Deploy on Heroku`](https://youtu.be/7hhuzIkhVfE).***
 7. ***Deploy on [`Replit.`](https://replit.com/github/Vegita/YHWACH-MD).*** 
