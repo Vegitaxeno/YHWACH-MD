@@ -56,19 +56,12 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
   <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
     <img alt=Support height="90" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
   </p>
-    
- ## ```𝘛𝘢𝘱 𝘈𝘯𝘺 𝘓𝘖𝘎𝘖 𝘛𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
- <p align="centre">
-  <a href="mailto:HELP_SIGMA-MD@outlook.com">
-    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923466319114?text=Hi%20Maher-Zubair%20Sir...%20I%20need%20some%20help%20in%20SIGMA-MD">
-    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
-##
+
 
 - ***Star ⭐ My Repo If You Like This Bot.***
 
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
+- ***The [YWASH-MD](https://github.com/Vegitaxeno/YWASH-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
 - ***[Suhail Tech Info](https://github.com/SuhailTechInfo)***
@@ -79,4 +72,4 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and Misuse It*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [Vegitaxeno](https://github.com/Vegitaxeno)***
