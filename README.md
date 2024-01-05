@@ -58,9 +58,6 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
 - ***The [YWASH-MD](https://github.com/Vegitaxeno/YHWACH-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
-- ***[Suhail Tech Info](https://github.com/SuhailTechInfo)***
-- ***[Diegoson Tech](https://github.com/DiegosonTech)***
-- ***[Sam Pandey](https://github.com/SamPandey001)***
 - ***[Maher-Zubair](https://github.com/Maher-Zubair)*** 
 ##
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
