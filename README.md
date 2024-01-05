@@ -61,7 +61,7 @@ mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w
 - ***[Suhail Tech Info](https://github.com/SuhailTechInfo)***
 - ***[Diegoson Tech](https://github.com/DiegosonTech)***
 - ***[Sam Pandey](https://github.com/SamPandey001)***
-- ***[Mehar-Zubair](https://github.com/mehar-zubair)*** 
+- ***[Maher-Zubair](https://github.com/Maher-Zubair)*** 
 ##
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
